@@ -1,0 +1,6 @@
+애플리케이션 배포
+세명컴퓨터고등학교
+0526
+git config --global user.name "KSJ"
+git config --global user.emil "sunnsj@naver.com"
+git config --global core.editor vi
