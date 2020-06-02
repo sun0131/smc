@@ -4,3 +4,5 @@
 git config --global user.name "KSJ"
 git config --global user.emil "sunnsj@naver.com"
 git config --global core.editor vi
+
+내용 수정
