@@ -24,9 +24,9 @@ class Student{
 	public void floor() {
 		if(grade == 3);{
 		System.out.println("3학년은 4층입니다.");}
-		else if(grade == 2);{
+		if(grade == 2);{
 		System.out.println("2학년은 5층입니다.");}
-		else if(grade == 1);{
+		if(grade == 1);{
 			System.out.println("1학년은 6층입니다.");}
 	}
 }
